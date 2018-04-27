@@ -1,3 +1,5 @@
+[English document](README.md)
+
 # 说明
 这是一个grub2的主题
 
