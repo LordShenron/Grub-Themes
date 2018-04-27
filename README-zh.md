@@ -1,3 +1,5 @@
+[English Documentation](README.md)
+
 # Grub-Themes
 这是一个grub2的主题
 
