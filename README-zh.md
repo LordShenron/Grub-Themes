@@ -4,8 +4,9 @@
 这是一个grub2的主题
 
 # 如何安装grub2主题
-要求环境：efi+gpt、archlinux、
-分区形式：
+要求环境：efi+gpt、archlinux
+<br />我的分区：
+<br />
 ![001](picture/001.png)
 ![002](picture/002.png)
 
