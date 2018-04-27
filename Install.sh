@@ -25,7 +25,7 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
   echo "GRUB_THEME=\"/boot/grub/themes/Griffin/theme.txt\"" >> /etc/default/grub
 
   # update grub
-  update-grub
+  grub-mkconfig -o /boot/grub/grub.cfg
 
   echo -e "/n All done!"
   notify-send "All done!" -i face-smile
