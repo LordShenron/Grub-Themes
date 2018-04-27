@@ -1,4 +1,4 @@
-[Home-document](README.md) [English document](README-en.md)
+[Introduction-of-documents](README.md) [English document](README-en.md)
 
 # 说明
 这是一个grub2的主题

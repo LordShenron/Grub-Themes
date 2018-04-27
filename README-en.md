@@ -1,4 +1,4 @@
-[Home-document](README.md) [中文文档](README-zh.md)
+[Introduction-of-documents](README.md) [中文文档](README-zh.md)
 
 # Explanation
 This is the theme of a Grub2
