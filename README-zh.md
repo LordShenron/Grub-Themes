@@ -1,4 +1,4 @@
-[English document](README.md)
+[Home-document](README.MD) [English document](README-en.md)
 
 # 说明
 这是一个grub2的主题
@@ -10,12 +10,13 @@
 ![001](picture/001.png)
 ![002](picture/002.png)
 
-<br />复制文件Griffin-Grub-v2.0到/boot/grub/themes/分区下
+<br />复制文件Griffin-Grub-v2.0到/boot/grub/themes/分区下，里面有个脚本，会自动处理theme主题文件
 <br />命令：
 <br />cd /boot/grub/themes/Griffin-Grub-v2.0/
-<br />chmod +x Install.sh
-<br />sudo ./Install.sh
+<br />chmod +x Install-Arch.sh (一般可以忽略，能用就行)
+<br />sudo ./Install-Arch.sh
 <br />没有然后了，直接reboot，就可以看到了。
+<br />备注：如果你是Ubuntu一般情况，请把上面Install-Arch.sh换成Install-Ubuntu.sh
 
 # 更新内容
 本Grub-Themes基于githun里的Shenron007/Grub-Themes源文件修改的
