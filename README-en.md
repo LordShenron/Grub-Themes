@@ -1,4 +1,4 @@
-[Home-document](README.MD) [中文文档](README-zh.md)
+[Home-document](README.md) [中文文档](README-zh.md)
 
 # Explanation
 This is the theme of a Grub2
@@ -16,7 +16,7 @@ Requirements for the environment: efi+gpt, archlinux
 <br/>chmod +x Install-Arch.sh (generally negligible, can be used).
 <br/>sudo./Install-Arch.sh
 <br/>No, then reboot, you can see.
-<br/>ote: if you are Ubuntu general, please change the Install-Arch.sh above to Install-Ubuntu.sh.
+<br/>ote: If you are Ubuntu, in general, please change the Install-Arch.sh above to Install-Ubuntu.sh.
 
 # Update content
 This Grub-Themes is modified based on the Shenron007/Grub-Themes source file in githun.

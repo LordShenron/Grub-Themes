@@ -1,4 +1,4 @@
-[Home-document](README.MD) [English document](README-en.md)
+[Home-document](README.md) [English document](README-en.md)
 
 # 说明
 这是一个grub2的主题
@@ -16,7 +16,7 @@
 <br />chmod +x Install-Arch.sh (一般可以忽略，能用就行)
 <br />sudo ./Install-Arch.sh
 <br />没有然后了，直接reboot，就可以看到了。
-<br />备注：如果你是Ubuntu一般情况，请把上面Install-Arch.sh换成Install-Ubuntu.sh
+<br />备注：如果你是Ubuntu,一般情况，请把上面Install-Arch.sh换成Install-Ubuntu.sh
 
 # 更新内容
 本Grub-Themes基于githun里的Shenron007/Grub-Themes源文件修改的
