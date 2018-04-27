@@ -4,7 +4,11 @@
 这是一个grub2的主题
 
 # 如何安装grub2主题
-要求环境：efi+gpt、archlinux、分区形式：
+要求环境：efi+gpt、archlinux、
+分区形式：
+<br />![001](Grub-Themes/picture/截图_2018-04-27_13-15-30.png)
+<br />![002](Grub-Themes/picture/截图_2018-04-27_13-19-51.png)
+
 <br />复制文件Griffin-Grub-v2.0到/boot/grub/themes/分区下
 <br />命令：
 <br />cd /boot/grub/themes/Griffin-Grub-v2.0/
