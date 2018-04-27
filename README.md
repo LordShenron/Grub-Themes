@@ -1,4 +1,4 @@
-[Chinese Documentation](README-zh.md)
+[中文文档](README-zh.md)
 
 # Grub-Themes
 Grub themes will give a modern look to the Grub2 menu during boot.
