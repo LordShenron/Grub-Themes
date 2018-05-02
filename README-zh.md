@@ -27,5 +27,5 @@ sudo ./Install-Arch.sh
 只是将grub-update命令改为grub-mkconfig -o /boot/grub/grub.cfg
 并未做其它任何修改
 
-时间：20180427
+
 更新时间：20180502
