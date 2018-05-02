@@ -7,6 +7,7 @@
 # 如何安装grub2主题
 要求环境：efi+gpt、archlinux
 我的分区：
+
 ![001](picture/001.png)
 ![002](picture/002.png)
 

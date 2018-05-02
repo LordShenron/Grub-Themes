@@ -17,8 +17,8 @@ cd /boot/grub/themes/Griffin-Grub-v2.0/
 chmod +x Install-Arch.sh 	#generally negligible, can be used
 sudo./Install-Arch.sh
 ````
-No, then reboot, you can see.
-ote: If you are Ubuntu, in general, please change the Install-Arch.sh above to Install-Ubuntu.sh.
+No, then **reboot**, you can see.
+ote: If you are **Ubuntu**, in general, please change the Install-Arch.sh above to Install-Ubuntu.sh.
 
 
 # Update content
