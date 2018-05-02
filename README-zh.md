@@ -2,7 +2,8 @@
 
 # 说明
 这是一个grub2的主题
-
+![参考图片](picture/003.png)
+[参考图片](picture/003.png)
 # 如何安装grub2主题
 要求环境：efi+gpt、archlinux
 <br />我的分区：

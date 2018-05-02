@@ -2,7 +2,8 @@
 
 # Explanation
 This is the theme of a Grub2
-
+![](picture/003.png)
+[Reference picture](picture/003.png)
 # How to install the Grub2 theme
 Requirements for the environment: efi+gpt, archlinux
 <br/>My partition:
@@ -22,3 +23,4 @@ Requirements for the environment: efi+gpt, archlinux
 This Grub-Themes is modified based on the Shenron007/Grub-Themes source file in githun.
 <br/>link: https://github.com/Shenron007/Grub-Themes/tree/griffin-grub
 <br/>simply change the grub-update command to grub-mkconfig -o /boot/grub/grub.cfg.
+
