@@ -10,6 +10,7 @@ My partition:
 
 ![001](picture/001.png)
 ![002](picture/002.png)
+
 copy files Griffin-Grub-v2.0 to /boot/grub/themes/ partition, there is a script, will automatically process theme theme files.
 ````
 command:
