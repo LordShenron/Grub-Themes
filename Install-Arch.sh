@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Copyright © 2018, "Shenron007" <priyanshu19111999@gmail.com>
+# Copyright © 2018, "LordShenron" <priyanshu19111999@gmail.com>
 #
 # This software is licensed under the terms of the GNU General Public
 # License version 2, as published by the Free Software Foundation, and
